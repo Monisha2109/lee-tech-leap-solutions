@@ -108,7 +108,7 @@ This project was developed using modern frontend technologies with a focus on re
 
 ## 📝 Create Account
 
-![Register](screenshots/create account.png)
+![Create Account](screenshots/create-account.png)
 
 ---
 
