@@ -114,7 +114,7 @@ This project was developed using modern frontend technologies with a focus on re
 
 ## 📧 Contact Page
 
-![Contact](screenshots/contact.png)
+![Contact](screenshots/Contact.png)
 
 ---
 
